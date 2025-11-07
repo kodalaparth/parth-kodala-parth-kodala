@@ -8,7 +8,7 @@ I love creating smooth, performant user experiences using Flutter, Firebase, and
 ---
 
 ## 💼 Professional Projects
-### 🔋 [Zynka EV Charging App](https://play.google.com/store/apps/details?id=com.zynka.ev)
+### 🔋 [Zynka EV Charging App](https://play.google.com/store/apps/details?id=com.zynkaapp.zynka)
 - EV charging app built with Flutter for Android & iOS  
 - Integrated **Google Maps**, **Firebase**, **Stripe/Razorpay**, and **Google Cloud APIs**  
 - Managed CI/CD pipelines using **Azure DevOps** and **Codemagic**

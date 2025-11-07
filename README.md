@@ -20,7 +20,7 @@ I love creating smooth, performant user experiences using Flutter, Firebase, and
 ### 🧰 [Zynka Field Services](https://play.google.com/store/apps/details?id=com.zynka.engineer)
 - Field management app with **offline sync**, **role management**, and **real-time updates**
 
-### 👥 [PeopleStrong HRMS App](https://play.google.com/store/apps/details?id=com.peoplestrong.alt.organise&hl=en))
+### 👥 [PeopleStrong HRMS App](https://play.google.com/store/apps/details?id=com.peoplestrong.alt.organise&hl=en)
 - Integrated **Google Maps** and **GA4 Analytics** for location and user tracking  
 - Contributed to performance optimization and feature improvements
 

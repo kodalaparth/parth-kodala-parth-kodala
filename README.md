@@ -13,14 +13,14 @@ I love creating smooth, performant user experiences using Flutter, Firebase, and
 - Integrated **Google Maps**, **Firebase**, **Stripe/Razorpay**, and **Google Cloud APIs**  
 - Managed CI/CD pipelines using **Azure DevOps** and **Codemagic**
 
-### 🚗 [Suzuki Smart Charge](https://play.google.com/store/apps/details?id=com.zynka.suzuki)
+### 🚗 [Suzuki Smart Charge](https://play.google.com/store/apps/details?id=com.smartcharge.suzuki&pcampaignid=web_share)
 - White-label version of Zynka for **Suzuki’s EV ecosystem**  
 - Custom authentication & charger listing for verified users
 
-### 🧰 [Zynka Field Services](https://play.google.com/store/apps/details?id=com.zynka.field)
+### 🧰 [Zynka Field Services](https://play.google.com/store/apps/details?id=com.zynka.engineer)
 - Field management app with **offline sync**, **role management**, and **real-time updates**
 
-### 👥 [PeopleStrong HRMS App](https://play.google.com/store/apps/details?id=com.belymon.peoplestrong)
+### 👥 [PeopleStrong HRMS App](https://play.google.com/store/apps/details?id=com.peoplestrong.alt.organise&hl=en))
 - Integrated **Google Maps** and **GA4 Analytics** for location and user tracking  
 - Contributed to performance optimization and feature improvements
 
@@ -47,5 +47,5 @@ I’m building open-source Flutter projects to share my learnings:
 
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/parth-kodala-7a675979/)
-- ✉️ [Email](mailto:kodalaparth@gmail.com)
+- ✉️ [Email](mailto:kodalaparth1@gmail.com)
 - 📱 [Play Store](https://play.google.com/store/apps/dev?id=<your-dev-id>)
